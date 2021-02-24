@@ -1,0 +1,15 @@
+{
+  "name": "@lee/ds",
+  "version": "0.0.0",
+  "main": "index.ts",
+  "typings": "index.ts",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  }
+}
