@@ -6,6 +6,9 @@
     "type": "git",
     "url": "git+https://github.com/leebeydoun/pnpm-vite-mono-repo.git"
   },
+  "engines": {
+    "node": ">=12"
+  },
   "keywords": [
     "pnpm",
     "mono-repo",
