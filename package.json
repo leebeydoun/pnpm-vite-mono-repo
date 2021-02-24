@@ -1,0 +1,20 @@
+{
+  "name": "pnpm-vite-mono-repo",
+  "private": true,
+  "description": "Mono-repo template created by Lee, for his personal projects",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leebeydoun/pnpm-vite-mono-repo.git"
+  },
+  "keywords": [
+    "pnpm",
+    "mono-repo",
+    "vitejs"
+  ],
+  "author": "Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leebeydoun/pnpm-vite-mono-repo/issues"
+  },
+  "homepage": "https://github.com/leebeydoun/pnpm-vite-mono-repo#readme"
+}
