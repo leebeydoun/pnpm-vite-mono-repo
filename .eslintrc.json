@@ -13,10 +13,11 @@
     "eslint:recommended",
     "airbnb-typescript",
     "airbnb/hooks",
-    "prettier",
+    "prettier"
   ],
   "parserOptions": {
-    "project": "./tsconfig.json"
+    "project": "./tsconfig.json",
+    "warnOnUnsupportedTypeScriptVersion": false
   },
   "rules": {
     "linebreak-style": "off",
